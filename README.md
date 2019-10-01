@@ -16,7 +16,7 @@
 **Follow these steps for completing your project.**
 
 - [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repo). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
+- [x] Add your team lead as a reviewer on the pull-request
 - [x] Your team lead will count the project as complete by merging the branch back into master.
 
 ## Assignment Description
@@ -46,7 +46,7 @@ The [arrays.js](assignments/arrays.js) assignment takes us through a large data 
 
 ### Arrow Function Syntax
 
-- [ ] Arrow Function Syntax - [Check out this awesome guide for ES6 arrow syntax](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26). You will see more and more arrow functions as you progress deeper into JavaScript. Use the [function-conversion.js](assignments/function-conversion.js) file as a helper challenge to showcase some of the differences between ES5 and ES6 syntax.
+- [x] Arrow Function Syntax - [Check out this awesome guide for ES6 arrow syntax](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26). You will see more and more arrow functions as you progress deeper into JavaScript. Use the [function-conversion.js](assignments/function-conversion.js) file as a helper challenge to showcase some of the differences between ES5 and ES6 syntax.
 
 ### Stretch
 
